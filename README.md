@@ -27,6 +27,8 @@ https://www.uniview.com/Support/How_To/ \
 https://www.youtube.com/channel/UCqx937gPiCrFIzXFKQfC5FA \
 https://www.uniview.com/AppStore/ \
 For end user ---> UniEase (Formerly UNV-Link)-First & EZView UNV \
+For Cloud Login \
+https://global.ezcloud.uniview.com/login
 
 
 # PXE Boot
