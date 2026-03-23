@@ -1,4 +1,4 @@
-# CCTV & Network
+# CCTV & Network & Solar
 Guide for Network admin
 
 # CCTV Technology
@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=oI948edU_Vk
 
 # Network Computer Cloning and Management
 https://fogproject.org/
+
+# Solar System
+https://offgridsolarsystem.ca/ \
+
