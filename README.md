@@ -41,4 +41,7 @@ https://fogproject.org/
 
 # Solar System
 https://offgridsolarsystem.ca/ \
-
+https://www.youtube.com/watch?v=jafkE6kj5mU&t=763s \
+https://www.youtube.com/watch?v=ex1y3Cg0TlE \
+https://www.youtube.com/watch?v=V-pW6qcMnlA \
+https://www.youtube.com/watch?v=HQ4SfbeGg5s
