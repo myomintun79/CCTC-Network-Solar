@@ -36,6 +36,7 @@ https://global.ezcloud.uniview.com/login
 
 # Tiandy CCTV
 https://en.tiandy.com/ \
+https://cloud.tiandycloud.com/ \
 https://help.tiandycloud.com/software.html \
 https://www.youtube.com/watch?v=P5KQwh0a2Mc \
 https://www.youtube.com/watch?v=RPwpIrVoDJQ
